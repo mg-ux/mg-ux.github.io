@@ -1,0 +1,35 @@
+*
+{
+  font-family: Arial;
+  background-color: 900000;
+}
+
+ table 
+{
+  text-align: center;
+  width: 360px;
+  border-collapse: collapse;
+  border-radius: 1em;
+  overflow: hidden;
+}
+
+th, td 
+{
+  padding: 1em;
+  background: #ddd;
+  border-bottom: 2px solid white;
+}
+
+input[type=button] 
+{
+ border-radius: 2em;
+ width:  40px;
+ height: 40px;
+ margin-left: 170;
+ 
+}
+
+input
+{
+background-color: white;
+}
